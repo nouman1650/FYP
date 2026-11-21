@@ -1,0 +1,12 @@
+Find 100 business leads for the niche car repairs in Manchester , United kingdom.
+
+Use Google Maps/Places and web search to find the businesses. Then visit each business's website to find its email and social media links.
+
+Return one table with these columns:
+Business Name | Address | Phone | Website | Email | Facebook | Instagram | LinkedIn | Google Rating
+
+Rules:
+
+- Only real data you actually found. Write "Not found" if missing, never guess.
+- No duplicates.
+- Skip businesses with no mobile number.
